@@ -5,6 +5,7 @@
 I want to become a professional in my field and work with interesting projects.
 
 Skills: HTML / CSS / SASS /
+![Yellow Motivational Web Developer Linkedin Banner](https://user-images.githubusercontent.com/67265548/172680266-0e4bc2f4-4af8-40a3-aaf8-17929080a86b.gif)
 
 - 📚 I’m currently learning course in Frontend developer 
 - 💼 I’m looking to collaborate on Tesla 
